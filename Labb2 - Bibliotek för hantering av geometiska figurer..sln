@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labb2 - Bibliotek för hantering av geometiska figurer", "Labb2 - Bibliotek för hantering av geometiska figurer\Labb2 - Bibliotek för hantering av geometiska figurer.csproj", "{73147114-759A-4B67-B758-70ADCFB39DDC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labb2 Classlibrary", "Labb2 Classlibrary\Labb2 Classlibrary.csproj", "{E85A655C-316C-4F52-8407-A9251269CF38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73147114-759A-4B67-B758-70ADCFB39DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73147114-759A-4B67-B758-70ADCFB39DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73147114-759A-4B67-B758-70ADCFB39DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73147114-759A-4B67-B758-70ADCFB39DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85A655C-316C-4F52-8407-A9251269CF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85A655C-316C-4F52-8407-A9251269CF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85A655C-316C-4F52-8407-A9251269CF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85A655C-316C-4F52-8407-A9251269CF38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {784A0EA4-C6B8-4381-9CAB-FD30A213071B}
+	EndGlobalSection
+EndGlobal
